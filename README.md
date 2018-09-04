@@ -8,4 +8,7 @@ The topics covered so far are-<br><ol>
 <li><b>Logistic Regression</b> with single class classification. The model is provided with two training sets one which is used without regularization and one which is used with the help of the regularization.</li>
 <br>
   <li><b>Multiclass Classification and Neural Networks</b> Implemented the first problem using sklearn logistic regression function and the second requirement which was building the neural network in plain python code using a bit of  help from numpy.</li>
+  <li>
+    The important debugging tool which is <b>Learning Curve</b>  is added to the excercise 5 of the repo. In the same problem we have implemented the Linear regression model with regularization and Liner regression with polynomial features.
+  </li>
 </p>
